@@ -10,3 +10,43 @@
 .panel-heading {
   text-align: center;
 }
+
+.well {
+  background-color: lightblue;
+}
+
+#education {
+  background-image: url("https://images.pexels.com/photos/12064/pexels-photo-12064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  text-align: center;
+  color: white;
+}
+
+#hobbies {
+  background-image: url("https://images.pexels.com/photos/89699/pexels-photo-89699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  text-align: center;
+  color: white;
+}
+
+#skills {
+  background-image: url("https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  text-align: center;
+  color: white;
+}
