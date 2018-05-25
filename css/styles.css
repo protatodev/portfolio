@@ -12,7 +12,9 @@
 }
 
 .well {
-  background-color: #d9edf7;
+  background-image: linear-gradient(#2980b9, #2c3e50);
+  padding: 5px;
+  padding-top: 0px;
 }
 
 .well ul {
@@ -28,7 +30,7 @@
 }
 
 #education {
-  background-color: #337ab7;
+  background-color: green;
   border-style: solid;
   border-width: thin;
   border-color: black;
@@ -37,7 +39,7 @@
 }
 
 #hobbies {
-  background-color: #337ab7;
+  background-color: brown;
   border-style: solid;
   border-width: thin;
   border-color: black;
@@ -46,7 +48,7 @@
 }
 
 #skills {
-  background-color: #337ab7;
+  background-color: purple;
   border-style: solid;
   border-width: thin;
   border-color: black;
@@ -67,4 +69,22 @@
 #nerd2 {
   height: 200px;
   margin-right: 10px;
+}
+
+.about-me {
+  background-color: #2980b9;
+  color: white;
+}
+
+.panel-heading {
+  color: white;
+  font-weight: bold;
+}
+
+.aboutme-header {
+  background-image: linear-gradient(#2980b9, #2c3e50);
+}
+
+.workexp-header {
+  background-image: linear-gradient(#2980b9, #2c3e50);
 }
