@@ -12,7 +12,19 @@
 }
 
 .well {
-  background-color: lightblue;
+  background-color: #d9edf7;
+}
+
+.well ul {
+  background-image: linear-gradient(#d9edf7, lightblue);
+  border-style: solid;
+  border-width: medium;
+  border-color: lightblue;
+}
+
+.well ul ul {
+  border-style: none;
+  background: transparent;
 }
 
 #education {
@@ -49,4 +61,11 @@
   border-color: black;
   text-align: center;
   color: white;
+}
+
+.title {
+  background-image: url("https://images.pexels.com/photos/205316/pexels-photo-205316.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0 -10px;
 }
