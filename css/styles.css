@@ -18,8 +18,8 @@
 .well ul {
   background-image: linear-gradient(#d9edf7, lightblue);
   border-style: solid;
-  border-width: medium;
-  border-color: lightblue;
+  border-width: thin;
+  border-color: black;
 }
 
 .well ul ul {
@@ -28,38 +28,29 @@
 }
 
 #education {
-  background-image: url("https://images.pexels.com/photos/12064/pexels-photo-12064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-color: lightblue;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-color: #337ab7;
   border-style: solid;
   border-width: thin;
   border-color: black;
-  text-align: center;
+  text-indent: 25%;
   color: white;
 }
 
 #hobbies {
-  background-image: url("https://images.pexels.com/photos/89699/pexels-photo-89699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-color: lightblue;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-color: #337ab7;
   border-style: solid;
   border-width: thin;
   border-color: black;
-  text-align: center;
+  text-indent: 35%;
   color: white;
 }
 
 #skills {
-  background-image: url("https://images.pexels.com/photos/248515/pexels-photo-248515.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-  background-color: lightblue;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-color: #337ab7;
   border-style: solid;
   border-width: thin;
   border-color: black;
-  text-align: center;
+  text-indent: 35%;
   color: white;
 }
 
