@@ -58,8 +58,9 @@
 
 .title {
   background-image: linear-gradient(#2980b9, #2c3e50);
-  margin: 0 -10px;
+  margin: 0 -15px;
   color: white;
+  padding-bottom: 30px;
 }
 
 .jumbotron h2 {
@@ -87,4 +88,10 @@
 
 .workexp-header {
   background-image: linear-gradient(#2980b9, #2c3e50);
+}
+
+#lowertag {
+  padding-left: 4.00em;
+  font-style: italic;
+  color: lightgray;
 }
